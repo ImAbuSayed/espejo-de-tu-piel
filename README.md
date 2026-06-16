@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/espejo-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Espejo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/espejo-de-tu-piel/) |
+| **Get License** | [Request Licensing for Espejo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/espejo-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, tú eres el espejo de mi piel
+> Tus labios me atrapan, saben a miel
+> Brillando en la disco con un porte criminal
+> Esta noche, reina, nos vamos hasta el final
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/espejo-de-tu-piel/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Espejo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/espejo-de-tu-piel/) |
+| **Get License** | [Commercial Licensing for Espejo de tu piel](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/espejo-de-tu-piel/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `54226325d89390056a02026e3dbb3894047071c21146f1586d4ab9d9c6448894` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

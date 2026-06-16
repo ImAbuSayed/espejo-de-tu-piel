@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Espejo de tu piel
+
+This log tracks the cryptographic history and versioning for the song **Espejo de tu piel** (espejo-de-tu-piel).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:41:25.787028 | `v1` | `54226325d89390056a02026e3dbb3894047071c21146f1586d4ab9d9c6448894` | `ed4af48f171a1421e5f7a7604acf49319844f5796bccd90489cf08fcfef6437e` | `2026-06-17_espejo-de-tu-piel-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
